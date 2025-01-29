@@ -6,6 +6,7 @@ L'obiettivo principale è dimostrare come l'integrazione della conoscenza semant
 
 ## Struttura del Progetto
 
+```plaintext
 Cistulli_Domenico/
 ├── config/                                         # file sparql
 ├── data/
@@ -27,7 +28,7 @@ Cistulli_Domenico/
 │   │   ├── neural_network.py                       # Reti neurali per la classificazione
 ├── Notebook/                          
 │   ├── eda_analysis.ipynb                          # Analisi dei risultati             
-├── docs/                   
+├── docs/                    
 │   ├── draft/                                      # Bozze varie
 │   ├── final/                                      # Documentazione finale
 │   ├── images/                                     # Immagini utilizzate
